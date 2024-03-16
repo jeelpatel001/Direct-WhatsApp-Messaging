@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459104284802",
+    "project_id": "directmessaging-33e77",
+    "storage_bucket": "directmessaging-33e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459104284802:android:1c92f30c5655ae6571049b",
+        "android_client_info": {
+          "package_name": "com.jeelpatel.directmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459104284802-pra1h7ie1a6ub43ahn354de999is30jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4CSKo8u5SW-akQ0iZw8RFumBNQXyojM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459104284802-pra1h7ie1a6ub43ahn354de999is30jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

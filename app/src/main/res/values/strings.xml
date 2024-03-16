@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Direct Messaging</string>
+
+    <!-- General Strings-->
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="direct_in_whatsapp">Direct Messaging</string>
+
+    <!-- Main Activity Strings-->
+    <string name="logout">SignOut</string>
+    <string name="version">Version 1.1</string>
+    <string name="share">Share</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="number">Number</string>
+    <string name="message">Message</string>
+    <string name="send">Send Messages</string>
+    <string name="sms">SMS</string>
+    <string name="send_to_whats">SEND</string>
+    <string name="share_dwm_with_friends_and_family">SHARE DM WITH FRIENDS AND FAMILY</string>
+    <string name="send_message_by_scanning_qr">SEND MESSAGE BY SCANNING QR</string>
+
+
+    <!-- Authentication Activity Strings -->
+    <string name="send_a_whatsapp_message_without_saving_a_number">Send a Whats app message without saving a number</string>
+    <string name="no_need_to_save_contacts">No need to Save Contacts</string>
+    <string name="sign_up_with_google">Sign up With Google</string>
+    <string name="check">Check</string>
+    <string name="checkTaC">Please Check Terms and Conditions</string>
+    <string name="checkPP">Please Check Privacy Policy</string>
+    <string name="delete_account">Delete Account</string>
+
+</resources>

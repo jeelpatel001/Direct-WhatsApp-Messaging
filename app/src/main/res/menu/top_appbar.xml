@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/gift"
+        android:icon="@drawable/gift"
+        android:title="Ad Gift"
+        app:showAsAction="always"/>
+
+            <item
+                android:id="@+id/menuPrivacyPolicy"
+                android:icon="@drawable/document23"
+                android:title="@string/privacy_policy"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/menuTermsAndConditions"
+                android:icon="@drawable/license23"
+                android:title="@string/terms_and_condition"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/shareButton"
+                android:icon="@drawable/share23"
+                android:title="@string/share"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/version"
+                android:title="@string/version"
+                app:showAsAction="never" />
+</menu>
