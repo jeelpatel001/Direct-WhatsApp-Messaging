@@ -10,7 +10,8 @@ Welcome to the Direct Message to WhatsApp Android project repository! This proje
 
 ## Screenshots
 
-Include relevant screenshots here to showcase the functionality of your app.
+![Dirct WhatsApp Message](https://github.com/jeelpatel001/Direct-WhatsApp-Messaging/assets/124356989/3d78132e-5bc1-4abb-8049-b9bb609676e9)
+
 
 ## Installation
 
